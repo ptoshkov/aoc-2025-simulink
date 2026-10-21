@@ -1,5 +1,8 @@
-Advent of Code 2025 solutions in Simulink
-https://adventofcode.com/2025
+Advent of Code 2025 (https://adventofcode.com/2025) solutions in Simulink. No Stateflow charts
+or MATLAB function blocks are used, with the exception of day 10 part 2, which uses intlinprog.
+
+<img width="894" height="651" alt="image" src="https://github.com/user-attachments/assets/b97dd290-6e99-4e27-8c7c-9fd20ecb1af1" />
+
 
 Day 1
 https://adventofcode.com/2025/day/1
